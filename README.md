@@ -1,6 +1,7 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
 ### DATE: 26-09-25
-### Ref no: 212224230172
+### NAME : Preethi D
+### Ref no: 212224040250
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
 <div align = "justify">
